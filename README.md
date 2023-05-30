@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cnn
 -
 -->
-![image](https://github.com/minaakbari121520/minaakbari121520/assets/112759576/ab11854d-ec06-4126-8aad-112e318d6c31)
